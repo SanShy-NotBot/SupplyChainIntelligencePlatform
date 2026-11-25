@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
+
+Run the pre-processing code(main.py) on the DataCoSupplyChainDataset. Pre-processing generates 2 other pre-processed files. The actual codes run on those 2 preprocessed files to generate different results and completely works as a supply chain intelligence model.
